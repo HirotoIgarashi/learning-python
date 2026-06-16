@@ -13,6 +13,12 @@
   * [2.6. Moving Menus to Classes](#26-moving-menus-to-classes)
   * [2.7. More Class Magic](#27-more-class-magic)
 * [3. Tools and Applications](#3-tools-and-applications)
+  * [3.1. Graphical User Interfaces](#31-graphical-user-interfaces)
+  * [3.2. Persistent Information](#32-persistent-information)
+  * [3.3. Implementing Object](#33-implementing-object)
+  * [3.4. Extending Python](#34-extending-python)
+  * [3.5. Embedding Python](#35-embedding-python)
+  * [3.6. Processing Language and Text](#36-processing-language-and-text)
 * [4. Appendixes](#4-appendixes)
 
 <!-- mtoc-end -->
@@ -42,5 +48,17 @@
 ## 2.7. More Class Magic
 
 # 3. Tools and Applications
+
+## 3.1. Graphical User Interfaces
+
+## 3.2. Persistent Information
+
+## 3.3. Implementing Object
+
+## 3.4. Extending Python
+
+## 3.5. Embedding Python
+
+## 3.6. Processing Language and Text
 
 # 4. Appendixes
