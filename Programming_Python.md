@@ -1,11 +1,11 @@
 <!-- mtoc-start -->
 
-* [1. Python入門:Introducing Python](#1-python入門introducing-python)
+* [1. Python入門](#1-python入門)
   * [1.1. Pythonとは何でしょうか？:So What's Python?](#11-pythonとは何でしょうかso-whats-python)
   * [1.2. 先行公開:A Sneak Preview](#12-先行公開a-sneak-preview)
   * [1.3. はじめる:Getting Started](#13-はじめるgetting-started)
-* [2. 言語の基礎:Language Fundamentals](#2-言語の基礎language-fundamentals)
-  * [2.1. Python入門](#21-python入門)
+* [2. プログラミング言語Pythonの文法](#2-プログラミング言語pythonの文法)
+  * [2.1. データ型](#21-データ型)
   * [2.2. フロー制御](#22-フロー制御)
   * [2.3. 関数](#23-関数)
   * [2.4. リスト](#24-リスト)
@@ -29,7 +29,7 @@
 
 <!-- mtoc-end -->
 
-# 1. Python入門:Introducing Python
+# 1. Python入門
 
 ## 1.1. Pythonとは何でしょうか？:So What's Python?
 
@@ -37,9 +37,9 @@
 
 ## 1.3. はじめる:Getting Started
 
-# 2. 言語の基礎:Language Fundamentals
+# 2. プログラミング言語Pythonの文法
 
-## 2.1. Python入門
+## 2.1. データ型
 
 ## 2.2. フロー制御
 
