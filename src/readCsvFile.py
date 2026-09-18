@@ -2,7 +2,7 @@
 # readCsvFile.py - カレントディレクトリのexample.csvを読み込みます
 import csv
 
-example_file = open("example.csv")
+example_file = open("data/fruit.csv")
 example_reader = csv.reader(example_file)
 for row in example_reader:
     print("Row #" + str(example_reader.line_num) + " " + str(row))
